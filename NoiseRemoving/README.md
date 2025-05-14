@@ -1,4 +1,4 @@
-#Noise Removing
+# Noise Removing
 
 Kia Ora This is a program where you add images that have what's know as noise in them. 
 When you run the program is tries to find the median of the colours around it and changes 
